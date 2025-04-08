@@ -11,11 +11,8 @@
 
 # Result (Mobile screen size)
 ![ubernsnap-image-editor-image4](https://github.com/user-attachments/assets/a36a4125-0774-4c24-ab33-700c565cbe8c)
-
 <br>
-![ubernsnap-image-editor-image6](https://github.com/user-attachments/assets/4931b137-525f-41f7-8dc8-306a646d9296)
-
-
+![ubernsnap-image-editor-image6](https://github.com/user-attachments/assets/a0d2a3e9-b649-43e3-b8a5-4bfc010e6c10)
 <br> <br>
 
 # Result (Desktop screen size)
