@@ -10,13 +10,17 @@
 <br>
 
 # Result (Mobile screen size)
-![ubernsnap-image-editor-image4](https://github.com/user-attachments/assets/e1c3bfa0-d7c9-4e43-a2ff-0501327bb730)
+![ubernsnap-image-editor-image4](https://github.com/user-attachments/assets/a36a4125-0774-4c24-ab33-700c565cbe8c)
+
 <br>
- ![ubernsnap-image-editor-image6](https://github.com/user-attachments/assets/d163c61b-1475-4cb6-b466-ebac6d9717fa)
+![ubernsnap-image-editor-image6](https://github.com/user-attachments/assets/4931b137-525f-41f7-8dc8-306a646d9296)
+
+
 <br> <br>
 
 # Result (Desktop screen size)
-![ubernsnap-image-editor-image7](https://github.com/user-attachments/assets/343cf95f-088a-45b8-8397-c1d21fc26bfd)
+![ubernsnap-image-editor-image7](https://github.com/user-attachments/assets/e4ef93f5-0cc1-4d51-9a58-53f8c0269638)
+
 
 
 
