@@ -1,0 +1,12 @@
+#uploadImageButton{
+    width: 50%;
+}
+
+footer{
+    position: sticky;
+    bottom: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
